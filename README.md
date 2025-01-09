@@ -1,6 +1,6 @@
 # Weather data collection and storage system
 
-A simple weather dashboard built with Python that fetches weather data from an API and stores it in an AWS S3 bucket.
+A simple weather Data collection built with Python that fetches weather data from an API and stores it in an AWS S3 bucket.
 
 ## Table of Contents
 
