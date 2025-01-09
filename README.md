@@ -1,4 +1,4 @@
-# Weather collection and storage 
+# Weather data collection and storage system
 
 A simple weather dashboard built with Python that fetches weather data from an API and stores it in an AWS S3 bucket.
 
