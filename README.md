@@ -39,7 +39,7 @@ A simple weather dashboard built with Python that fetches weather data from an A
    pip install -r requirements.txt
    ```
 
-3. Add your AWS and Weather API credentials to the `.env` file
+3. Add AWS and Weather API credentials to the `.env` file
 
    ```python
    region=ap-southeast-1
