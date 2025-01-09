@@ -55,7 +55,7 @@ A simple weather data collection built with Python that fetches weather data fro
 1. Run the Weather Dashboard:
 
 ```bash
-   python main.py
+   python src/main.py
 ```
 
 ## License
